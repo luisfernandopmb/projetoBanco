@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DIO.Bank2/1.0.0": {
+        "runtime": {
+          "DIO.Bank2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.Bank2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
